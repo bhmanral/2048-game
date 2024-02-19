@@ -1,0 +1,33 @@
+body {
+    background-color: #faf8ef;
+}
+
+table {
+    border-spacing: 0;
+}
+
+td {
+    height: 50px;
+    width: 50px;
+    border: solid black 1px;
+    text-align: center;
+    vertical-align: bottom;
+    font-size: 35px;
+    line-height: 50px;
+}
+
+div.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#infoDiv > * {
+    display: inline-block;
+}
+
+#infoDiv > h1 {
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
