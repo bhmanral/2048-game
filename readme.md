@@ -1,6 +1,6 @@
 # 2048-Game
 
-###Web Link: https://bhmanral.github.io/2048-game/
+### Web Link: https://bhmanral.github.io/2048-game/
 
 | Screenshot                        |
 | --------------------------------- |
