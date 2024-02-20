@@ -8,7 +8,7 @@
 
 ## Technologies Used
 
-- Front-End: JavaScript, HTML, CSS
+- Front-End: Javascript, HTML, CSS
 
 ## Contributing
 
